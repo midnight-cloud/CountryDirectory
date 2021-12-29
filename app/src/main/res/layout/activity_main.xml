@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFF9F9"
+    android:background="#F6EEEE"
     tools:context=".MainActivity">
 
     <EditText
@@ -171,7 +171,6 @@
             app:layout_constraintTop_toTopOf="@+id/textView9" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
